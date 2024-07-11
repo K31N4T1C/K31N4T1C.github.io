@@ -1,5 +1,6 @@
 ---
 title: "Noob Chronicles: Starting Fresh in Coding"
+description: First blog & Disclaimer >_<
 date: 2024-07-12 00:00:00 +0800
 categories: [Reflection]
 tags: [blog]     # TAG names should always be lowercase
