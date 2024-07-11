@@ -1,9 +1,9 @@
 ---
-title: "Noob Chronicles: Starting Fresh in Coding"
+title: "Starting Fresh in Coding"
 description: First blog & Disclaimer >_<
 date: 2024-07-12 00:00:00 +0800
-categories: [Reflection]
-tags: [blog]     # TAG names should always be lowercase
+categories: [Noob Chronicles]
+tags: [blog, reflection]     # TAG names should always be lowercase
 ---
 ![](assets/img/blog1.png)
 
@@ -14,6 +14,6 @@ In the past, I've experimented with tons of projects. I'm hitting the reset butt
 Consider this a heads-up: all the project documentation you'll find here from now on are, well, noob projects... Yeah, I get it -_- you might think, "Wait, isn't this guy a full stack developer?" Fair point. But, I'm using this opportunity to strengthen my basics, fill in those knowledge gaps, and rediscover the thrill of learning.
 
 And hmm... I have no idea how to wrap up a blog, so let's just say: 
-```
+``
 System.out.print("Bye!");
-```
+``
