@@ -8,12 +8,12 @@ tags: [java basics, programming]     # TAG names should always be lowercase
 This mortgage calculator project is based on the Java Tutorial for Beginners by Programming with Mosh. It's a practical way to learn Java programming, helping you understand how to handle user input, perform calculations, and format output in a useful application.
 
 ## Sample Output
-````
+```
 Principal: 100000
 Annual Interest Rate: 3.92
 Period (Years): 30
 Mortgage: $472.81
-````
+```
 
 
 ## Formula
@@ -65,7 +65,7 @@ double mortgage = principal
 
 Calculates the monthly mortgage payment using the formula:
 
-$M = P \times \frac{r \times (1 + r)^n}{(1 + r)^n - 1}$
+$`M = P \times \frac{r \times (1 + r)^n}{(1 + r)^n - 1}`$
 
 where:
 - $M$ is `mortgage`, the monthly payment.
