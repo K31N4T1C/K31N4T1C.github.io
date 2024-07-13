@@ -63,17 +63,11 @@ double mortgage = principal
             / (Math.pow(1 + monthlyInterest, numPayment) - 1);
 ```
 
-Calculates the monthly mortgage payment using the formula:
-
-```math
-M = P \times \frac{r \times (1 + r)^n}{(1 + r)^n - 1}
-```
-
-where:
-- $$M$$ is `mortgage`, the monthly payment.
-- $$P$$ is ``principal``, the loan amount.
-- $$r$$ is ``monthlyInterest``, the monthly interest rate.
-- $$n$$ is ``numPayment``, the total number of monthly payments.
+Calculates the monthly mortgage payment using the [formula](#formula) where:
+- **M** is `mortgage`, the monthly payment.
+- **P** is ``principal``, the loan amount.
+- **r** is ``monthlyInterest``, the monthly interest rate.
+- **n** is ``numPayment``, the total number of monthly payments.
 
 > `Math.pow()` is a Java method used to raise a number to a specified power, returning the result as a double.
 
